@@ -75,7 +75,7 @@ SUSFS 更新系统是一个高效、稳定的设备固件更新解决方案，�
 本项目采用 [MIT 许可证](LICENSE)，详情请查看 LICENSE 文件。
 
 ## 联系方式
-- 项目维护者：[@your-username](https://github.com/your-username)
+- 项目维护者：[Kevin-Y-Du](https://github.com/Kevin-Y-Du)
 - 问题反馈：请在 [Issues](https://github.com/your-username/your-repo/issues) 页面提交问题。
 
 感谢使用 SUSFS 更新系统！🚀
