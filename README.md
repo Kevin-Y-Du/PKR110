@@ -76,6 +76,6 @@ SUSFS 更新系统是一个高效、稳定的设备固件更新解决方案，�
 
 ## 联系方式
 - 项目维护者：[Kevin-Y-Du](https://github.com/Kevin-Y-Du)
-- 问题反馈：请在 [Issues](https://github.com/your-username/your-repo/issues) 页面提交问题。
+- 问题反馈：请在 [Issues](https://github.com/Kevin-Y-Du/PKR110/issues)) 页面提交问题。
 
 感谢使用 SUSFS 更新系统！🚀
